@@ -6,3 +6,5 @@ We Used Technologies:
 - C# . Net ( Desktop application )
 - Windows Form
 - SQL Server (DBMS)
+
+<details>
